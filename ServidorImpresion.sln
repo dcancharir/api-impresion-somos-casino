@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServidorImpresion", "ServidorImpresion\ServidorImpresion.csproj", "{1BB6BC77-5E7F-4111-851F-25C4F833B92E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BB6BC77-5E7F-4111-851F-25C4F833B92E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB6BC77-5E7F-4111-851F-25C4F833B92E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB6BC77-5E7F-4111-851F-25C4F833B92E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB6BC77-5E7F-4111-851F-25C4F833B92E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DB5A2F9-4FE0-4EBF-B353-E97C7FF89B76}
+	EndGlobalSection
+EndGlobal
